@@ -49,7 +49,7 @@ hide_streamlit_style = """
 st.markdown(hide_streamlit_style, unsafe_allow_html=True) 
 
 # st.sidebar.selectbox("How would you like to be contacted?",("Email", "Home phone", "Mobile phone"))
-st.markdown('<table><tr><td bgcolor=#f8f3f3>这是一个测试：🔊📢</td></tr></table>',unsafe_allow_html=True)
+st.markdown('<table><tr><td bgcolor=#f8f3f3>这是一个测试(2024-1-28)：🔊📢</td></tr></table>',unsafe_allow_html=True)
 # st.subheader("副标题")
 
 # image =Image.open('捕获1.jpg')
