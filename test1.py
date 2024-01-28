@@ -60,7 +60,7 @@ st.sidebar.header("功能区")
 st.sidebar.markdown("---")
 
 act=['知识网络可视化','知识元可视化','知识图谱','测试1']
-choice=st.sidebar.selectbox("请选择",act)
+choice=st.sidebar.selectbox("请选择模块",act)
 
 
 
